@@ -1,17 +1,17 @@
-### **to-rupiah**
+### **tea-rupiah**
 
 A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.
 
 ### Installation
 
 ```bash
-npm install to-rupiah
+npm install tea-rupiah
 ```
 
 ### Usage
 
 ```javascript
-import { toRupiah, convertToWords } from 'to-rupiah';
+import { toRupiah, convertToWords } from 'tea-rupiah';
 
 console.log(toRupiah(50000));
 // Output: Rp 50.000,00
@@ -75,7 +75,7 @@ console.log(convertToWords(0));
 - `spaceBeforeUnit`: Boolean flag to add space before the unit. Default: `false`.
 
 ### Lisensi
-[MIT](https://github.com/muhamadluthfiam/to-rupiah/blob/main/LICENSE.txt)
+[MIT](https://github.com/yohanes1999/tea-rupiah/blob/main/LICENSE.txt)
 
 ### Acknowledgments
 
